@@ -3,10 +3,10 @@
 ## Project Overview
 The **Prescription Payment Program (PPP)** is a federal government-mandated initiative by the Centers for Medicare & Medicaid Services (CMS). It ensures that health plans provide real-time prescription cost-sharing information to beneficiaries at the point of sale. This project demonstrates the implementation of the program for a health plan, ensuring CMS compliance and seamless integration with pharmacy benefit managers (PBMs).
 
-https://www.cms.gov/files/document/medicare-prescription-payment-plan-final-part-one-guidance.pdf
-https://www.cms.gov/files/document/fact-sheet-medicare-prescription-payment-plan-final-part-one-guidance.pdf
-https://www.cms.gov/files/document/medicare-prescription-payment-plan-timeline.pdf
-https://www.medicare.gov/prescription-payment-plan
+- https://www.cms.gov/files/document/medicare-prescription-payment-plan-final-part-one-guidance.pdf
+- https://www.cms.gov/files/document/fact-sheet-medicare-prescription-payment-plan-final-part-one-guidance.pdf
+- https://www.cms.gov/files/document/medicare-prescription-payment-plan-timeline.pdf
+- https://www.medicare.gov/prescription-payment-plan
 
 ## Project Goals
 - Enable real-time prescription cost transparency.
