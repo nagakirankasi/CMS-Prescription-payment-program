@@ -35,14 +35,15 @@ Note - This is an option I would recommend to implement this program.
 ![Architecture Diagram](docs/architecture-diagram.png)
 
 ## Technologies Used
-| Category          | Tools/Technologies            |
-|-------------------|-------------------------------|
-| Cloud Platform    | AWS (Lambda, API Gateway, S3) |
-| Infrastructure    | Terraform, AWS CDK            |
-| API & Data        | REST, FHIR, Swagger/OpenAPI   |
-| CI/CD             | GitHub Actions, CodePipeline  |
-| Security          | OAuth2.0, JWT, Encryption     |
-| Monitoring        | CloudWatch, Grafana           |
+
+- | Category          | Tools/Technologies            |
+- |-------------------|-------------------------------|
+- | Cloud Platform    | AWS (Lambda, API Gateway, S3) |
+- | Infrastructure    | Terraform, AWS CDK            |
+- | API & Data        | REST, FHIR, Swagger/OpenAPI   |
+- | CI/CD             | GitHub Actions, CodePipeline  |
+- | Security          | OAuth2.0, JWT, Encryption     |
+- | Monitoring        | CloudWatch, Grafana           |
 
 ## Repository Structure
 ```
