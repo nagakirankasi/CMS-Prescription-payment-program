@@ -3,15 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: CMS Prescription Payment Program
 show_downloads: true
-description: This project demonstrates the implementation of the program for a health plan, ensuring CMS compliance and seamless integration with pharmacy benefit managers (PBMs).
-
-Prescription-Payment-Program-CMS/
-├── README.md          # Project overview and showcase
-├── docs/              # Architecture diagrams, solution design documents
-├── src/               # Sample code, infrastructure-as-code (IaC) templates
-├── workflows/         # CI/CD pipeline configurations
-├── api/               # API specifications (Swagger/OpenAPI)
-├── tests/             # Test automation scripts
-├── deployment/        # Terraform, CloudFormation, or AWS CDK templates
-├── reports/           # Metrics, dashboards, success stories
-└── LICENSE            # Optional, if sharing reusable code
+description: This project demonstrates the implementation of the program for a health plan, ensuring CMS compliance and seamless integration with pharmacy benefit managers (PBMs)
