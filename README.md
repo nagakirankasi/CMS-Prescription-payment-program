@@ -6,6 +6,7 @@ The **Prescription Payment Program (PPP)** is a federal government-mandated init
 https://www.cms.gov/files/document/medicare-prescription-payment-plan-final-part-one-guidance.pdf
 https://www.cms.gov/files/document/fact-sheet-medicare-prescription-payment-plan-final-part-one-guidance.pdf
 https://www.cms.gov/files/document/medicare-prescription-payment-plan-timeline.pdf
+https://www.medicare.gov/prescription-payment-plan
 
 ## Project Goals
 - Enable real-time prescription cost transparency.
