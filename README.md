@@ -32,7 +32,8 @@ Note - This is an option I would recommend to implement this program.
 5. **Error Handling:** Robust retry mechanisms using AWS SQS.
 
 ## Architecture Diagram
-![Architecture Diagram](docs/architecture-diagram.png)
+![High Level Data Flow](docs/high-level-data-flow.png)
+![Architecture Diagram] - Work in progress
 
 ## Technologies Used
 
