@@ -18,7 +18,7 @@ The **Prescription Payment Program (PPP)** is a federal government-mandated init
 As an IT Architect, I led the end-to-end solution design and implementation:
 Note - This is an option I would recommend to implement this program.
 
-![Solution Design Approach](docs/Solution Design)
+![Solution Design Approach](docs/Solution Design.md)
 
 - **Architecture:** Event-driven microservices
 - **Cloud:** AWS (Lambda, API Gateway, S3, SNS/SQS)
