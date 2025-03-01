@@ -64,7 +64,7 @@ Note - This is an option I would recommend to implement this program.
 ## Deployment
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Prescription-Payment-Program-CMS.git
+git clone https://github.com/nagakirankasi/Prescription-Payment-Program-CMS.git
 ```
 2. Set up AWS credentials.
 3. Deploy infrastructure using Terraform:
